@@ -1,0 +1,2 @@
+# weightroom
+In this app I used the MERN stack to create a exercise app that shows the exercises that one user puts in. It also has a create user function and edit exercise function as well that can change the data of the exercises and or delete them. For this project you will need node.js React, some sort of database- I used MongoDB as implied in the MERN, axios, dotenv, as well as express and many other packages within the project. In the .env file there is no link to a database currently as I have removed the one i was using for testing. Pull requests welcome. :) 
